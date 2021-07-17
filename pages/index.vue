@@ -1,9 +1,7 @@
 <template>
-  <div class="bg-gray-800 text-white h-screen">
-    <div class="bg-gray-700 w-[200px]">
-      Hello World
+    <div class="container px-10 py-8 mx-auto mt-10 bg-white rounded-md shadow">
+      <h1 class="text-3xl font-bold text-gray-800">Hello World</h1>
     </div>
-  </div>
 </template>
 
 <script>
